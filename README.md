@@ -1,1 +1,1 @@
-# phobos_1.9.0-config
+# Phobos 1.9.0 config
