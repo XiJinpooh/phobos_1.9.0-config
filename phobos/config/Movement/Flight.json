@@ -1,0 +1,18 @@
+{
+  "Enabled": false,
+  "Drawn": true,
+  "Bind": "None",
+  "DisplayName": "Flight",
+  "Mode": "SPOOF",
+  "Better": false,
+  "Format": "DAMAGE",
+  "Type": "Y",
+  "Phase": false,
+  "Speed": 2.4,
+  "NoKick": true,
+  "NoClip": false,
+  "GroundSpoof": false,
+  "AntiGround": true,
+  "Cooldown": 1,
+  "Ascend": false
+}

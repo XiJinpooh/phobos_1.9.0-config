@@ -1,0 +1,20 @@
+{
+  "Enabled": false,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "LogoutSpots",
+  "Range": 300.0,
+  "Sync": false,
+  "Red": 255,
+  "Green": 0,
+  "Blue": 0,
+  "Alpha": 255,
+  "Scale": false,
+  "Size": 4.0,
+  "Factor": 0.3,
+  "SmartScale": false,
+  "Rectangle": true,
+  "Coords": true,
+  "Notification": true,
+  "Message": false
+}

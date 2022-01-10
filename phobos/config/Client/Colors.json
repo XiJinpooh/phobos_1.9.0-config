@@ -1,0 +1,14 @@
+{
+  "Enabled": false,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "Colors",
+  "Rainbow": false,
+  "Speed": 20,
+  "Saturation": 255,
+  "Brightness": 255,
+  "Red": 255,
+  "Green": 120,
+  "Blue": 255,
+  "Alpha": 255
+}

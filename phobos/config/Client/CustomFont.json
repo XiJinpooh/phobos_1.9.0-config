@@ -1,0 +1,14 @@
+{
+  "Enabled": true,
+  "Drawn": false,
+  "Bind": "None",
+  "DisplayName": "CustomFont",
+  "FontName": "Comic_Sans_MS",
+  "FontSize": 17,
+  "FontStyle": 0,
+  "AntiAlias": true,
+  "Metrics": true,
+  "Shadow": true,
+  "Fonts": false,
+  "Full": true
+}
